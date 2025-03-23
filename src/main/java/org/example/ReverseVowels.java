@@ -6,6 +6,7 @@ import java.util.List;
 import java.util.stream.Stream;
 
 public class ReverseVowels {
+
     public String reverseVowels(String s) {
         List<Integer> postions = new ArrayList<Integer>();
         for(int i =0 ; i < s.length(); i++){

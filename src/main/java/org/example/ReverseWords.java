@@ -8,6 +8,8 @@ import java.util.stream.Collectors;
 
 public class ReverseWords {
 
+    //String array
+
     public String reverseWords(String s) {
         String[] listOfWords = s.trim().split(" ");
         for(int i=0 ; i<listOfWords.length/2; i++){
