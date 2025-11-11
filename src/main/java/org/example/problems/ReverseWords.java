@@ -1,10 +1,6 @@
-package org.example;
+package org.example.problems;
 
-import javax.swing.plaf.synth.SynthLookAndFeel;
 import java.util.Arrays;
-import java.util.Collection;
-import java.util.List;
-import java.util.stream.Collectors;
 
 public class ReverseWords {
 
